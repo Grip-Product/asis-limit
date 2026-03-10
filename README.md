@@ -1,2 +1,2 @@
-# asis-limit
-AS-IS 한정판매 
+# tobe-limit
+tobe 한정판매 
